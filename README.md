@@ -3,8 +3,8 @@
 
 ### 🎓 I study Electrical and Computer Engineering at the National Technical University of Athens
 
-- 🌱 I’m currently learning Django and also Javascript and its frameworks.
-- 🤔 I'm looking to learn more around Artificial Intelligence and Data Analysis.
+- 🌱 I’m currently engaged with Machine Learning and Natural Language Processing.
+- 🤔 I'm looking to learn more around Data Analysis and potential relevant applications.
 - 🏀 Fun fact: I'm in love with basketball!
 
 ### ⌨️ Languages and tools:
