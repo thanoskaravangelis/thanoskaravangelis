@@ -3,6 +3,7 @@
 
 ### About me
 
+
 - 🎓 I hold an Integrated Master's degree in Electrical and Computer Engineering from the National Technical University of Athens. This coming academic year I will attend a master's in Business Analytics and Management at Rotterdam School of Management. 
 - 🌱 I’m currently engaged with Machine Learning and Natural Language Processing. I recently defended my thesis which combined Counterfactual Explanations and Part-of-speech tagging.
 - 🤔 I'm also looking to learn more about Data Analysis, Data Engineering, and potential relevant applications.
