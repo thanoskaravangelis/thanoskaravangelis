@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Thanos! 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thanoskaravangelis.thanoskaravangelis) [![Github](https://img.shields.io/github/followers/thanoskaravangelis?label=Follow&style=social)](https://github.com/thanoskaravangelis)
 
-### 🎓 I study Electrical and Computer Engineering at the National Technical University of Athens
+### About me
 
-- 🌱 I’m currently engaged with Machine Learning and Natural Language Processing.
-- 🤔 I'm looking to learn more around Data Analysis and potential relevant applications.
+- 🎓 I hold an Integrated Master's degree in Electrical and Computer Engineering from the National Technical University of Athens. This coming academic year I will attend a master's in Business Analytics and Management at Rotterdam School of Management. 
+- 🌱 I’m currently engaged with Machine Learning and Natural Language Processing. I recently defended my thesis which combined Counterfactual Explanations and Part-of-speech tagging.
+- 🤔 I'm also looking to learn more about Data Analysis, Data Engineering, and potential relevant applications.
 - 🏀 Fun fact: I'm in love with basketball!
 
 ### ⌨️ Languages and tools:
