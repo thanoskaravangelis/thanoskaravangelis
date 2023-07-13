@@ -18,6 +18,12 @@
     <img src="https://camo.githubusercontent.com/307bc7e1866605e4e9d10212d71de0a26cc4738f3265f95a1debc99b85bb2a2e/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7261772f6d61696e2f7472616e73666f726d6572732d6c6f676f2d6461726b2e737667" alt="transformers icon" height="30"/>
 </p>
 <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/574284?s=48&v=4" alt="robot icon" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/107424?s=48&v=4" alt="jenkins icon" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/13629408?s=48&v=4" alt="kubernetes icon" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4" alt="docker icon" height="40"/>
+</p>
+<p align="center">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django icon" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html icon" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css icon" width="40" height="40"/>
