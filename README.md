@@ -4,8 +4,8 @@
 ### About me
 
 
-- 🎓 I hold an Integrated Master's degree in Electrical and Computer Engineering from the National Technical University of Athens. This coming academic year I will attend a master's in Business Analytics and Management at Rotterdam School of Management. 
-- 🌱 I’m currently engaged with Machine Learning and Natural Language Processing. I recently defended my thesis which combined Counterfactual Explanations and Part-of-speech tagging.
+- 🎓 I hold an Integrated Master's degree in Electrical and Computer Engineering from the National Technical University of Athens and this past academic year I also obtained a master's in Business Analytics and Management at Rotterdam School of Management. 
+- 🌱 I’m currently engaged with Data Sceince, Machine Learning and Natural Language Processing. I also gained some experience with Large Language Models with langchain and I am really keen to work on any GenAI Applications.
 - 🤔 I'm also looking to learn more about Data Analysis, Data Engineering, and potential relevant applications.
 - 🏀 Fun fact: I'm in love with basketball!
 
